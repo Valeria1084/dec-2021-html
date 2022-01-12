@@ -1,0 +1,37 @@
+body{
+    background: #212121;
+}
+div {
+    width:200px;
+    background-color: #212121;
+    border-radius: 40px;
+    margin: 20px;
+    margin-left: 600px;
+    height: 30px;
+    text-align:  center;
+
+
+}
+.target1{
+    border: 5px solid #ff6e1d;
+    margin-top: 300px;
+    color: #ff6e1d;
+    padding-bottom: 20px;
+
+}
+
+.target2{
+    border: 5px solid #2cfff2;
+    color: #2cfff2;
+    padding-bottom: 20px;
+}
+.target3{
+    border: 5px solid #ff54a6;
+    color:  #ff54a6;
+    padding-bottom: 20px;
+}
+.target4{
+    border: 5px solid #ff3e3e;
+    color: #ff3e3e;
+    padding-bottom: 20px;
+}

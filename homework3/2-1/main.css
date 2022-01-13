@@ -1,0 +1,40 @@
+#header{
+    background: pink;
+    width: 1000px;
+    height: 100px;
+}
+
+#menu {
+    background: hotpink;
+    width: 100px;
+    height: 500px;
+    justify-content: flex-start;
+    margin: 5px;
+
+}
+#center{
+    display: flex;
+    align-items: baseline;
+
+
+}
+
+.post2{
+    width: 880px;
+    height: 250px;
+    background: #ff3e3e;
+
+
+}
+.post {
+    width: 880px;
+    height: 250px;
+    background: #00ff15;
+    margin: 5px;
+
+}
+#footer{
+    background: #2cfff2;
+    width: 1000px;
+    height: 100px;
+}

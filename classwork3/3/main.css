@@ -1,0 +1,53 @@
+#target{
+    width: 810px;
+    height: 200px;
+    background: lightpink;
+    margin-bottom: 10px;
+}
+
+.b{
+    width: 620px;
+    height: 200px;
+    background: #c70a61;
+    margin-bottom: 10px;
+    justify-content: flex-start;
+
+}
+
+
+#container2{
+    display: flex;
+    column-gap: 10px;
+    row-gap: 10px;
+    flex-wrap: wrap;
+}
+.c{
+    width: 200px;
+    height: 200px;
+    background: deeppink;
+}
+
+.d{
+    width: 200px;
+    height: 200px;
+    background: deeppink;
+}
+
+.e{
+    width: 200px;
+    height: 200px;
+    background: deeppink;
+}
+.f {
+    width: 170px;
+    height: 420px;
+    background: hotpink;
+    float: right;
+    margin-right: 710px;
+
+}
+h1{
+    text-align: center;
+    padding-top: 50px;
+
+}

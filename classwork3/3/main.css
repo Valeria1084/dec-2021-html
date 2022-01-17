@@ -1,20 +1,7 @@
-#target{
+#a{
     width: 810px;
-    height: 200px;
-    background: lightpink;
     margin-bottom: 10px;
 }
-
-.b{
-    width: 620px;
-    height: 200px;
-    background: #c70a61;
-    margin-bottom: 10px;
-    justify-content: flex-start;
-
-}
-
-
 #container2{
     display: flex;
     column-gap: 10px;
@@ -23,25 +10,14 @@
 }
 .c{
     width: 200px;
-    height: 200px;
-    background: deeppink;
 }
-
-.d{
-    width: 200px;
-    height: 200px;
-    background: deeppink;
-}
-
 .e{
-    width: 200px;
-    height: 200px;
-    background: deeppink;
+    width: 620px;
+
 }
 .f {
     width: 170px;
-    height: 420px;
-    background: hotpink;
+    height: 410px;
     float: right;
     margin-right: 710px;
 
@@ -50,4 +26,10 @@ h1{
     text-align: center;
     padding-top: 50px;
 
+}
+.h-200{
+    height: 200px;
+}
+.bac{
+    background: #ff006a;
 }

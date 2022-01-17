@@ -14,7 +14,6 @@ h2 {
 .a{
     width: 300px;
     height: 350px;
-    background: #2cfff2;
 
 }
 #c{
@@ -33,5 +32,8 @@ h2 {
 .d{
     width: 193px;
     height: 300px;
+
+}
+.bac{
     background: skyblue;
 }

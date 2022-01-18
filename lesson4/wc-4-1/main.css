@@ -1,0 +1,45 @@
+#content1{
+    column-gap: 50px;
+}
+#content3{
+    column-gap: 200px;
+}
+#content4 {
+    margin-left: 300px;
+    color: silver;
+    column-gap: 320px;
+}
+#content2{
+    column-gap: 150px;
+}
+.a{
+    width: 200px;
+    height: 200px;
+}
+.tex{
+    text-align: center;
+}
+.radius-10{
+    border-radius: 10%;
+}
+.radius-50{
+    border-radius: 50%;
+}
+.col-blu{
+    background: #08172f;
+}
+.col-silver{
+    background: silver;
+}
+.h-500{
+ height:500px;
+}
+.marg{
+    margin-top: 30px;
+}
+.flex{
+    display: flex;
+}
+.ju-con{
+    justify-content: center;
+}

@@ -1,12 +1,13 @@
 #a{
     width: 810px;
-    margin-bottom: 10px;
+
 }
 #container2{
     display: flex;
     column-gap: 10px;
     row-gap: 10px;
     flex-wrap: wrap;
+    margin-top: 20px;
 }
 .c{
     width: 200px;
@@ -17,9 +18,10 @@
 }
 .f {
     width: 170px;
-    height: 410px;
+    height: 420px;
     float: right;
     margin-right: 710px;
+    margin-top: 20px;
 
 }
 h1{

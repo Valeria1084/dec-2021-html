@@ -1,89 +1,91 @@
-#a{
-    width: 810px;
+#con1{
+    display: block;
 
 }
-#a2{
-    width: 810px;
-display: none;
+header{
+    width: 877px;
+    height: 100px;
+    background: #ff006a;
+    margin-left:10px ;
 }
-
-
-#container2{
+#post{
     display: flex;
     column-gap: 10px;
-    row-gap: 10px;
-    flex-wrap: wrap;
-    margin-top: 20px;
+    margin-top: 10px;
+}
+#a{
+    display: flex;
+}
+.a{
+    width: 200px;
+    height: 200px;
+    background: #ff006a;
+    margin: 10px;
+}
+.a1{
+    width: 640px;
+    height: 200px;
+    background: #ff006a;
+    margin: 10px;
 }
 .c{
-    width: 200px;
-}
-.e{
-    width: 620px;
-
-}
-.f {
-    width: 170px;
-    height: 420px;
-    float: right;
-    margin-right: 710px;
-    margin-top: 20px;
-
-}
-h1{
-    text-align: center;
-    padding-top: 50px;
-
-}
-.h-200{
-    height: 200px;
-}
-.bac{
+    width: 215px;
+    height:430px;
     background: #ff006a;
+    display: block;
+}
+
+footer{
+    width: 877px;
+    height: 100px;
+    background: #ff006a;
+    margin-left:10px ;
+    display: none;
 }
 @media screen  and (min-width: 0px) and (max-width: 1535px) {
-    #a{
-        width: 620px;
 
-    }
-    #a2{
-        width: 620px;
+    #con1{
         display: block;
 
     }
-    #container2{
+    header{
+        width: 640px;
+        height: 100px;
+        background: #ff006a;
+        margin-left:10px ;
+    }
+    #post{
         display: flex;
         column-gap: 10px;
-        row-gap: 10px;
-        flex-wrap: nowrap;
-        margin-top: 20px;
+        margin-top: 10px;
+    }
+    #a{
+        display: flex;
+    }
+    .a{
+        width: 200px;
+        height: 200px;
+        background: #ff006a;
+        margin: 10px;
+    }
+    .a1{
+        width: 640px;
+        height: 200px;
+        background: #ff006a;
+        margin: 10px;
     }
     .c{
-        width: 200px;
-    }
-    .e{
-        width: 620px;
-
-    }
-    .f {
-        width: 170px;
-        height: 420px;
-        float: right;
-        margin-right: 710px;
-        margin-top: 20px;
-        display: none;
-
-    }
-    h1{
-        text-align: center;
-        padding-top: 50px;
-
-    }
-    .h-200{
-        height: 200px;
-    }
-    .bac{
+        width: 215px;
+        height:430px;
         background: #ff006a;
+        display: none;
     }
 
+    footer{
+        width: 640px;
+        height: 100px;
+        background: #ff006a;
+        margin-left:10px ;
+        display: block;
+    }
 }

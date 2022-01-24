@@ -15,12 +15,12 @@ header{
     width: 200px;
     height: 200px;
     background: #ff006a;
-margin: 10px;
+    margin: 10px;
 }
 .c{
-width: 200px;
-height:420px;
-background: #ff006a;
+    width: 200px;
+    height:420px;
+    background: #ff006a;
     display: block;
 }
 
